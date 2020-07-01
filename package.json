@@ -1,0 +1,11 @@
+{
+  "name": "auction-service",
+  "version": "1.0.0",
+  "description": "Template for Serverless Framework Projects",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Sharma",
+  "license": "ISC"
+}
